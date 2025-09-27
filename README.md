@@ -36,9 +36,3 @@ The goal was to create an engaging user experience with intuitive navigation and
 
 
 
----
-
-## 🚀 How to View Designs
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/royal-harvest-app.git
